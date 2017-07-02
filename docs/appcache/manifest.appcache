@@ -1,11 +1,11 @@
 CACHE MANIFEST
-#ver:6/28/2017, 9:33:09 PM
-#plugin:4.7.0
+#ver:2017-7-2 01:08:12
+#plugin:4.8.1
 
 CACHE:
-/todo-pwa/bundle.js
-/todo-pwa/
-/todo-pwa/manifest.json
+/digital ocean test/bundle.js
+/digital ocean test/
+/digital ocean test/manifest.json
 
 NETWORK:
 *
