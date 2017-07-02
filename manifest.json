@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "digital ocean test",
+  "name": "digital ocean test",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/ZpOjOsqRZakSmDKE70cV",
       "sizes": "144x144",
       "type": "image/png"
     }
